@@ -30,14 +30,10 @@ Given below are my contributions to the project.
   - As a user I can view a summary report of the past 6 months (Pull requests [#82](https://github.com/AY2021S1-TIC4001-2/tp/issues/82l))
 
 - **Documentation:**
-
   - User Guide: Added documentation for the features `report` and `report MONTH` [#50](https://github.com/AY2021S1-TIC4001-2/tp/issues/50)
   - Developer Guide: Added implementation details of the  `report` and `report MONTH` feature.[#112](https://github.com/AY2021S1-TIC4001-2/tp/issues/112)
 
 - **Community**
-
   - PRs reviewed: add comments.
-
   - Updating user/developer docs that are not specific to a feature.
-
   - Brainstorming and update product scope, user stories, non functional requirements with team every weekend.
