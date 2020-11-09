@@ -25,7 +25,7 @@ Given below are my contributions to the project.
 - **Enhancements implemented:**
   - As a user I can add an income/expense category (Pull requests [#5](https://github.com/AY2021S1-TIC4001-2/tp/issues/5), [#6](https://github.com/AY2021S1-TIC4001-2/tp/issues/6))
   - As a user I can view a summary report of my income/expenses for any months  (Pull requests [#18](https://github.com/AY2021S1-TIC4001-2/tp/issues/18))
-  - As a user I can view a summary report of the past 6 months (Pull requests [#82](https://github.com/AY2021S1-TIC4001-2/tp/issues/82l))
+  - As a user I can view a summary report of the past 6 months (Pull requests [#82](https://github.com/AY2021S1-TIC4001-2/tp/issues/82))
 
 - **Documentation:**
   - User Guide: Added documentation for the features `report` and `report MONTH` [#50](https://github.com/AY2021S1-TIC4001-2/tp/issues/50)
