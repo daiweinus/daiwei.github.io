@@ -31,10 +31,8 @@ Given below are my contributions to the project.
 
 - **Documentation:**
 
-  - User Guide:
-    - Added documentation for the features `report` and `report MONTH` [#50](https://github.com/AY2021S1-TIC4001-2/tp/issues/50)
-  - Developer Guide:
-    - Added implementation details of the  `report` and `report MONTH` feature.[#112](https://github.com/AY2021S1-TIC4001-2/tp/issues/112)
+  - User Guide: Added documentation for the features `report` and `report MONTH` [#50](https://github.com/AY2021S1-TIC4001-2/tp/issues/50)
+  - Developer Guide: Added implementation details of the  `report` and `report MONTH` feature.[#112](https://github.com/AY2021S1-TIC4001-2/tp/issues/112)
 
 - **Community**
 
