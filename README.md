@@ -17,9 +17,7 @@ Given below are my contributions to the project.
 
 - **New Feature:** Added the ability `report` to view last six months transactions summary.
   - What it does: allows the user to view their last six months report, include every month total income /   expense transaction in last six month.
-
   - Justification: This feature improves the product significantly because a user can get overall insight and understand their last six month income and expense transactions detail in a concise and clear way.
-
   - Highlights: This enhancement has tried to reuse some methods from the monthly reports to reduce code coupling and make the code DRY. It helps us easier to debug and test our code.
 
 - **Code contributed:** [tp daiweinus RepoSense link](https://nus-tic4001-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=daiweinus&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=zoom&zA=daiweinus&zR=AY2021S1-TIC4001-2%2Ftp%5Bmaster%5D&zACS=166.28571428571428&zS=2020-08-14&zFS=daiweinus&zU=2020-11-09&zMG=false&zFTF=commit&zFGS=groupByRepos&zFR=false)
