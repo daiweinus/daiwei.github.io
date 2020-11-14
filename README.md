@@ -35,3 +35,5 @@ Given below are my contributions to the project.
   - PRs reviewed: add comments.
   - Updating user/developer docs that are not specific to a feature.
   - Brainstorming and update product scope, user stories, non functional requirements with team every weekend.
+  
+-For your reference: [Dai Wei’s Project Portfolio Page link](https://daiweinus.github.io/daiwei.github.io/)
