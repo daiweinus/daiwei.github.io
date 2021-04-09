@@ -1,37 +1,46 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/daiweinus/daiwei.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+---
+layout: page
+title: daiweinus's Project Portfolio Page
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project: Employee Tracker
 
-### Markdown
+The Employee Tracker allows small business owners to keep track of their employees information using a single platform instead of having to deal with multiple data management tools.
+Through a simple and intuitive graphical user interface, business owners can record and view their employees' information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Summary of Contributions
+Given below are my contributions to the project.
 
-```markdown
-Syntax highlighted code block
+* **New Feature**: Added the ability to sort commands.
+  * What it does: allows the user to sort the list of employee records in the Employee Tracker based on the different  `TYPE` parameters. So a user can view the list of employee records in the Employee Tracker with clear sequence.
+  
+  * Justification: This feature improves the usability of getting the desired result significantly because a user can view well-organized employee records, and easier to understand the distribution and structure of various employee records data in the Employee Tracker.
+  
+  * Highlights: This enhancement add new command was affects the existing codes as it required well understand the existing codes,the relevant class, interface and methods how to working. The code implement use java.util.Collections.sort to sort the data arraylist quickly and accurately. Also, it required to add new testing cases so that the program works properly.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* **Code contributed**: 
+  [RepoSense link](https://nus-tic4002-ay2021s2.github.io/tp-dashboard/#breakdown=true&search=daiweinus)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+* **Enhancements to existing features**:
+  * Enhanced the sort commands. (Pull requests [\#60](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/60), [\#71](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/71), [\#97](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/97))
+  * Wrote additional tests for features to increase coverage to 100%. (Pull requests  [\#94](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/94))
 
-[Link](url) and ![Image](src)
-```
+* **Documentation**:
+  * User Guide:
+    * Added User Stories for the features `sort`. (Pull requests [\#16](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/16) )
+    * Did cosmetic tweaks to existing UG documentation of features `sort`.(Pull requests [\#73](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/73))
+  * Developer Guide:
+    * Added Developer Guide documentation for the features `sort`.(Pull requests [\#31](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/31))
+    * Added implementation details of the `sort` feature. (Pull requests [\#31][\#94](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/94))
+    * Did cosmetic tweaks to existing DG documentation of features `sort`.(Pull requests [\#142](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/142))
+   
+* **Community**:
+  * Contributed to forum discussions ([1](https://github.com/nus-tic4002-AY2021S2/forum/issues/5))
+  * Reported bugs and suggestions for other teams in the class ( [1](https://github.com/daiweinus/ped/issues/1), [2](https://github.com/daiweinus/ped/issues/2), [3](https://github.com/daiweinus/ped/issues/3), [4](https://github.com/daiweinus/ped/issues/4), [5](https://github.com/daiweinus/ped/issues/5), [6](https://github.com/daiweinus/ped/issues/6))
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daiweinus/daiwei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+-For your reference: [Dai Wei’s Project Portfolio Page link](https://daiweinus.github.io/daiwei.github.io/)
