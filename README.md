@@ -26,8 +26,8 @@ Given below are my contributions to the project.
 
 
 * **Enhancements to existing features**:
-  * Enhanced the sort commands. (Pull requests [\#60](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/60), [\#71](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/71), [\#97](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/97))
-  * Wrote additional tests for features to increase coverage to 100%. (Pull requests  [\#94](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/94))
+  * Enhanced the `sort` commands. (Pull requests [\#60](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/60), [\#71](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/71), [\#97](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/97))
+  * Wrote additional tests for features `sort` to increase coverage to 100%. (Pull requests  [\#94](https://github.com/AY2021S2-TIC4002-F18-2/tp2/pull/94))
 
 * **Documentation**:
   * User Guide:
